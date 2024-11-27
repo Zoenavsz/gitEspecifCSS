@@ -1,0 +1,31 @@
+.tag_product{
+    color: #db3636;
+}
+.wrappercard { 
+    color: green;
+}
+.wrappercard { 
+    color: blueviolet;
+}
+*{
+    background: bisque;
+}
+p{ 
+    background-color: yellowgreen;
+}
+.product_description { 
+    background-color: skyblue;
+}
+#uniqueDescrption { 
+    background: aquamarine; 
+}
+li{
+    background: #ce8fce !important;
+}
+li{
+    background: aquamarine;
+}
+.wrappercard p{
+    color: palegoldenrod;
+    font-size: 30px;
+}
